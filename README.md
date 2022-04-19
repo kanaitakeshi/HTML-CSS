@@ -27,3 +27,10 @@ https://kanaitakeshi.github.io/HTML-CSS/
 - ボタンをへこませる 【position: relative;　top: 6px; box-shadow: none;】
 - ヘッダーを固定する 【position: fixed;】
 - 要素の重なりの順序を指定する 【z-index: ◯;】
+- メディアクエリの書き方 【@media (条件) { .... }】
+- ブレイクポイント 【max-width: ◯◯px】【min-width: ◯◯px】
+- レイアウト崩れを直す 【box-sizing: border-box;】
+- viewportの設定
+- メディアクエリ用のCSS 【responsive.css】
+- floatの解除 【clear: left;】
+- 画面サイズが大きい時に対応する 【max-width: ◯◯px;】
